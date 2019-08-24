@@ -9,7 +9,9 @@ These decorations are based on
 with additions and changes.
 
 
-##**Installation**:
+
+#
+**Installation**:
 
 Manual:
 
