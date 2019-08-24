@@ -7,9 +7,9 @@ Kvantum is an SVG-based theme engine for Qt4/Qt5, KDE and LXQt. More info you ca
 Please note that these themes are based on 
 
 
-**KvMojaveLight** (https://github.com/tsujan/Kvantum/tree/master/Kvantum/themes, Credits to Tsu Jan)
+- **KvMojaveLight** (https://github.com/tsujan/Kvantum/tree/master/Kvantum/themes, Credits to Tsu Jan)
 
-**Mojave Dark** (https://github.com/Luwx/Mojave-kvantum, Credits to LuwX)
+- **Mojave Dark** (https://github.com/Luwx/Mojave-kvantum, Credits to LuwX)
 
 
 with significant additions and changes.
