@@ -13,3 +13,16 @@ Please note that these themes are based on
 
 
 with significant additions and changes.
+
+
+Screenshots:
+
+
+Mojave Dark
+
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Mojave%20Dark.png?raw=true)
+
+
+Mojave Light
+
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Mojave%20Light.png?raw=true)
