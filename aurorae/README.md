@@ -18,7 +18,7 @@ with additions and changes.
 
 
 1) Download window decoration (-s),
-2) Copy aurorae theme (-s) to the  ~/.local/share/aurorae/theme
+2) Copy aurorae theme (-s) to the   *~/.local/share/aurorae/theme* 
 
 Open **System Setting**=> **Application Style**=> **Window Decorations** and choose your new theme.
 
