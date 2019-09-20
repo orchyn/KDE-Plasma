@@ -28,3 +28,7 @@ Screenshots:
 **Mojave Light**
 
 ![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Mojave%20Light.png?raw=true)
+
+
+**Mojave Blurred**
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Mojave-blurred.png?raw=true)
