@@ -21,7 +21,7 @@ Screenshots:
 
 **MLight Blurred**
 
-![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/MLight-Blurred.png?raw=true)
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/MLight%20Blurred.png?raw=true)
 
 
 **Mojave Dark**
