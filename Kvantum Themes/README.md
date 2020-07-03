@@ -19,6 +19,10 @@ with significant additions and changes.
 
 Screenshots:
 
+**MLight Blurred**
+
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/MLight-Blurred.png?raw=true)
+
 
 **Mojave Dark**
 
