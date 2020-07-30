@@ -17,7 +17,10 @@ with significant additions and changes.
 
 
 
-Screenshots:
+ <p align="center"><b>Screenshots:</b></p>
+
+
+
 
 
 **BigSur Light**
