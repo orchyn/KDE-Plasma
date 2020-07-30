@@ -19,7 +19,9 @@ with significant additions and changes.
 
 Screenshots:
 
+
 **BigSur Light**
+
 ![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Big%20Sur.png?raw=true)
 
 
