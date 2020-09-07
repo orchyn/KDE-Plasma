@@ -310,8 +310,8 @@ indicator.element=tree
 
 [HeaderSection]
 inherits=PanelButtonCommand
-frame.element=btn
-interior.element=btn
+frame.element=button
+interior.element=button
 frame.top=2
 frame.bottom=2
 frame.left=2
