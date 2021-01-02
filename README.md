@@ -5,5 +5,9 @@ Themes, decorations for KDE Plasma.
 
 
 
+![Alt text](https://imgur.com/aYrmCuM.png?raw=true)
+
+
+
 
 ### Issues, requests: https://github.com/mkole/KDE-Plasma/issues
