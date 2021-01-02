@@ -1,7 +1,7 @@
-This folder contain theme files (Mojave dark and Light) for Kvantum.
+This folder contain themes for Kvantum.
 
-Kvantum is an SVG-based theme engine for Qt4/Qt5, KDE and LXQt. More info you can find here: https://github.com/tsujan/Kvantum
-
+Kvantum (by Pedram Pourang, a.k.a. Tsu Jan) is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. 
+More info you can find here: https://github.com/tsujan/Kvantum/tree/master/Kvantum
 
 
 Please note that these themes are based on 
@@ -25,7 +25,7 @@ with significant additions and changes.
 
 **BigSur Light**
 
-![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Big%20Sur.png?raw=true)
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Big%20Light.png?raw=true)
 
 
 **MLight Blurred**
