@@ -1,7 +1,7 @@
 # Your linux can look stunning.
 Themes, decorations for KDE Plasma.
 
-![Alt text](https://imgur.com/4Rwcskh.png?raw=true)
+![Alt text](https://imgur.com/o2iOvKU.png?raw=true)
 
 
 
