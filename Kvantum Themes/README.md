@@ -21,7 +21,8 @@ with significant additions and changes.
 
 
 
-
+**BigSur Dark**
+![Alt text](https://github.com/mkole/KDE-Plasma/blob/master/Kvantum%20Themes/Big%20Dark.png?raw=true)
 
 **BigSur Light**
 
