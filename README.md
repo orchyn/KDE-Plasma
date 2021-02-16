@@ -5,7 +5,7 @@ Themes, decorations for KDE Plasma.
 
 
 
-![Alt text](https://imgur.com/aYrmCuM.png?raw=true)
+![Alt text](https://imgur.com/OzySAwa.png?raw=true)
 
 
 
