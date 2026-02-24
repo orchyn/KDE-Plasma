@@ -1,4 +1,4 @@
-# Your linux can look stunning.
+# Your linux can look stunning
 Themes, decorations for KDE Plasma.
 
 ![Alt text](https://imgur.com/o2iOvKU.png?raw=true)
@@ -10,4 +10,5 @@ Themes, decorations for KDE Plasma.
 
 
 
-### Issues, requests: https://github.com/mkole/KDE-Plasma/issues
+## Issues, requests:
+Please visit the <a href="https://github.com/orchyn/KDE-Plasma/issues">issues page</a>
